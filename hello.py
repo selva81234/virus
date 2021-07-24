@@ -1,3 +1,3 @@
 print("wduuwguwgguhdqwdwfwd")
-Print("sdvhdiubjasdvuihdsiubvbd")
+print("sdvhdiubjasdvuihdsiubvbd")
 print("dcudvvjabdvjpfhpiehvjnvjfnm")
